@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>896088529680-86u9v6prfdqnqbnfvstbkvg7nur15120.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.896088529680-86u9v6prfdqnqbnfvstbkvg7nur15120</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGr1CqObcUHO6MUQRYYBTLNl_sOFoz1bw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>896088529680</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Vitto.SmartNewsAggregator</string>
+	<key>PROJECT_ID</key>
+	<string>livee-news</string>
+	<key>STORAGE_BUCKET</key>
+	<string>livee-news.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:896088529680:ios:37d3adac1163a80d54e395</string>
+	<key>DATABASE_URL</key>
+	<string>https://livee-news.firebaseio.com</string>
+</dict>
+</plist>
